@@ -38,4 +38,4 @@ Keep all dataset information well-tracked:
 ---
 
 ## ✅ Outcome
-After Milestone 1, you’ll have a **clean, organized, and fully documented dataset** ready for the next stage of preprocessing and model development.
+After Milestone 1,  **clean, organized, and fully documented dataset** will be ready for the next stage of preprocessing and model development.
